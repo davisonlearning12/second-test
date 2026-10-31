@@ -25,10 +25,39 @@
           "url": "https://github.com/davisonlearning12"
         },
         {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "image",
+                "src": "assets/1793428767788-cookie.png",
+                "alt": "cookie",
+                "w": 75,
+                "href": "link-page.html"
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1793428793569-party_ring.png",
+                "alt": "party ring",
+                "href": "link-page.html"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "html": "These images contain links."
+              }
+            ]
+          ]
+        },
+        {
           "type": "image",
           "src": "assets/1793428097027-Logo.png",
           "alt": "Logo",
-          "w": 70
+          "w": 70,
+          "href": "https://github.com/davisonlearning12"
         }
       ]
     },
