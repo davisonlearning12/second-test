@@ -9,6 +9,25 @@
           "type": "hero",
           "title": "Welcome",
           "sub": "Click any text to edit it."
+        },
+        {
+          "type": "text",
+          "html": "Here is a link to a site page. LINK<div>And here is a link to an external page. <a href=\"https://github.com/davisonlearning12\">LINK</a></div>"
+        },
+        {
+          "type": "button",
+          "label": "Click me",
+          "url": "link-page.html"
+        }
+      ]
+    },
+    {
+      "name": "Link Page",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "A new heading",
+          "sub": "A short line beneath it."
         }
       ]
     }
