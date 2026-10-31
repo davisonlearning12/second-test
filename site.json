@@ -58,6 +58,30 @@
           "alt": "Logo",
           "w": 70,
           "href": "https://github.com/davisonlearning12"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Collapsible Sections"
+              },
+              {
+                "type": "text",
+                "html": "Does this collapse?"
+              },
+              {
+                "type": "image",
+                "src": "assets/1793430040999-chocolate_hobnob_1.png",
+                "alt": "chocolate hobnob 1",
+                "href": "link-page.html"
+              }
+            ]
+          ],
+          "fold": true,
+          "ft": "Click to expand",
+          "fo": false
         }
       ]
     },
