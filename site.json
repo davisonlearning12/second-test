@@ -23,6 +23,12 @@
           "type": "button",
           "label": "External Page Link",
           "url": "https://github.com/davisonlearning12"
+        },
+        {
+          "type": "image",
+          "src": "assets/1793428097027-Logo.png",
+          "alt": "Logo",
+          "w": 70
         }
       ]
     },
