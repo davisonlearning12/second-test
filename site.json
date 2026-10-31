@@ -12,12 +12,17 @@
         },
         {
           "type": "text",
-          "html": "Here is a link to a site page. LINK<div>And here is a link to an external page. <a href=\"https://github.com/davisonlearning12\">LINK</a></div>"
+          "html": "Here is a link to a site page. <a href=\"link-page.html\">LINK</a><div>And here is a link to an external page. <span style=\"color: rgb(31, 79, 216);\">LINK</span></div>"
         },
         {
           "type": "button",
-          "label": "Click me",
+          "label": "Site Page Link",
           "url": "link-page.html"
+        },
+        {
+          "type": "button",
+          "label": "External Page Link",
+          "url": "https://github.com/davisonlearning12"
         }
       ]
     },
