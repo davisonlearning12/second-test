@@ -97,7 +97,12 @@
     },
     {
       "name": "a third page",
-      "blocks": []
+      "blocks": [
+        {
+          "type": "text",
+          "html": "adding some text here"
+        }
+      ]
     }
   ]
 }
