@@ -101,6 +101,17 @@
         {
           "type": "text",
           "html": "adding some text here"
+        },
+        {
+          "type": "heading",
+          "text": "Something to download"
+        },
+        {
+          "type": "file",
+          "src": "files/1793516096336-bourbon_1.png",
+          "fn": "bourbon 1.png",
+          "name": "bourbon 1",
+          "size": 69864
         }
       ]
     }
